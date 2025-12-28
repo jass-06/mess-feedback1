@@ -1,11 +1,11 @@
-# ��� Mess Feedback Portal
+# Mess Feedback Portal
 
 A web-based **Mess Feedback Portal** for students to submit feedback, suggestions, and improvements regarding mess services.  
 Built with **HTML, CSS, JavaScript, Node.js, Express, and MySQL**.
 
 ---
 
-## ��� Features
+## Features
 
 ✅ Submit feedback with various categories (**Quality, Quantity, Hygiene, etc.**)  
 ✅ Upload proof (**PDF, DOC, JPG**) for feedback  
@@ -16,7 +16,7 @@ Built with **HTML, CSS, JavaScript, Node.js, Express, and MySQL**.
 
 ---
 
-## ��� Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
@@ -26,20 +26,20 @@ Built with **HTML, CSS, JavaScript, Node.js, Express, and MySQL**.
 
 ---
 
-## ��� Project Structure
+## Project Structure
 
 ```
 mess-feedback1/         # Main Project Folder
-│── ��� public/          # Static files (HTML, CSS, JS)
+│── public/             # Static files (HTML, CSS, JS)
 │   ├── index.html      # Homepage
 │   ├── feedback.html   # Feedback Form Page
 │   ├── success.html    # Success Page (after feedback submission)
-│   ├── ��� css/         # CSS Folder
+│   ├── css/            # CSS Folder
 │   │   ├── styles.css  # Main Stylesheet
-│   ├── ��� js/          # JavaScript Folder
+│   ├── js/             # JavaScript Folder
 │   │   ├── script.js   # Client-side JavaScript
-│── ��� uploads/         # Stores uploaded files (Proof attachments)
-│── ��� reports/         # Stores generated Excel/PDF reports
+│── uploads/            # Stores uploaded files (Proof attachments)
+│── reports/            # Stores generated Excel/PDF reports
 │── mess_feedback.sql   # SQL file to create tables
 │── server.js           # Node.js Backend (Express + MySQL)
 │── package.json        # Node.js Dependencies
@@ -50,7 +50,7 @@ mess-feedback1/         # Main Project Folder
 
 ---
 
-## ��� Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```sh
@@ -75,7 +75,7 @@ Server will run at: **[http://localhost:5000](http://localhost:5000)**
 
 ---
 
-## ��� API Endpoints
+## API Endpoints
 
 | Method | Endpoint             | Description                 |
 |--------|----------------------|-----------------------------|
@@ -98,7 +98,7 @@ Server will run at: **[http://localhost:5000](http://localhost:5000)**
 
 ---
 
-## �� Contributing
+## Contributing
 
 1. **Fork** the repository  
 2. **Clone** it locally:  
@@ -121,11 +121,11 @@ Server will run at: **[http://localhost:5000](http://localhost:5000)**
 
 ---
 
-## ��� Contact
+## Contact
 
-��� **Jaspreet**  
-��� Email: **jaspreetjalan011@gmail.com**  
-��� GitHub: [jass-06](https://github.com/jass-06)  
+ **Jaspreet**  
+ Email: **jaspreetjalan011@gmail.com**  
+ GitHub: [jass-06](https://github.com/jass-06)  
 
 ---
 
